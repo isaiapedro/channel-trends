@@ -1,0 +1,5 @@
+pytrends
+google-api-python-client
+python-dotenv
+httpx
+numpy

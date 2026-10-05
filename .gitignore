@@ -1,0 +1,27 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+output/
+
+# Workspace contracts stay in the private PIOS repository.
+AGENTS.md
+BEHAVIOR.md
+SYSTEM.md
+DECISIONS.md
+manifest.yaml
+AUDIT.md
+REVIEW.md
+ROADMAP.md
+SKILLS.md
+TASKS.md
+TRACEABILITY.md
+IDEAS.md
+DEPENDENCIES.md
+API.md
+ARCHITECTURE.md
+CHANGELOG.md
+AUTHENTICATION.md
+PRIVACY.md
+RETENTION.md
